@@ -1,1 +1,5 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="multimedia_playwav" id="7" x="117" y="74">
+    <field name="WAV">_SndTest</field>
+  </block>
+</xml>
